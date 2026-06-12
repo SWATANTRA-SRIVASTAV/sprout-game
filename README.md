@@ -119,4 +119,4 @@ https://swatantra-srivastav.github.io/sprout-game/
 
 Swatantra Srivastav
 
-Built as a small interactive learning game focused on shape-based exploration and playful interaction.
+Built as part of a mobile app development assignment focused on creating an engaging learning experience for children.
