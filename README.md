@@ -1,6 +1,61 @@
 # sprout-game 🌱
-
 A small shape-matching game I built for kids around 3–5 years old.
+
+Sprout Game is a small JavaScript-based shape learning game designed around quick interaction and playful exploration.
+
+The game gives players simple shape-based missions and encourages observation, recognition, and interaction through a lightweight and colorful interface.
+
+Unlike traditional quiz-style learning apps, Sprout Game focuses more on fast gameplay and simple visual engagement.
+
+
+# Features
+
+* Shape-based gameplay
+* Interactive missions
+* Child-friendly UI
+* Lightweight JavaScript implementation
+* Quick restart and replay flow
+* Simple and colorful design
+* Responsive gameplay layout
+
+
+# Screenshots
+
+## Home Screen
+
+![Home Screen](screenshots/home.png)
+
+## Gameplay
+
+![Gameplay](screenshots/gameplay.png)
+
+## Success Screen
+
+![Success Screen](screenshots/success.png)
+
+## Completion Screen
+
+![Completion Screen](screenshots/complete.png)
+
+> Note: Screenshots may vary slightly across devices and browsers.
+
+
+## Tech Stack
+
+- React
+- JavaScript
+- HTML
+- Web Audio API
+- CSS animations
+- GitHub Pages
+
+# Project Structure
+
+```txt
+src/
+assets/
+screenshots/
+```
 
 ## What's the idea
 
@@ -14,12 +69,43 @@ Kept it to a single screen on purpose. No routing, no state library, nothing ext
 
 Wanted it to feel snappy even on a mid-range Android, so nothing is blocking the main thread.
 
-## Stack
 
-- React
-- Web Audio API
-- CSS animations
-- GitHub Pages
+# Challenges Faced
+
+One of the main challenges during development was balancing simplicity with interaction quality.
+
+Designing gameplay that feels engaging without making the interface cluttered required multiple UI adjustments and gameplay iterations.
+
+Another challenge was keeping the project lightweight while maintaining responsive interaction across different screen sizes.
+
+
+# Future Improvements
+
+Some ideas planned for future versions:
+
+* More shape categories
+* Sound effects
+* Timed missions
+* Difficulty levels
+* Animations and transitions
+* Score saving system
+* Better mobile responsiveness
+
+
+# Getting Started
+
+## Clone the repository
+
+```bash
+git clone https://github.com/SWATANTRA-SRIVASTAV/sprout-game.git
+```
+
+## Move into project folder
+
+```bash
+cd sprout-game
+```
+
 
 ## Run locally
 
@@ -31,3 +117,10 @@ npm start
 ## Live
 
 https://swatantra-srivastav.github.io/sprout-game/
+
+
+# Author
+
+Swatantra Srivastav
+
+Built as a small interactive learning game focused on shape-based exploration and playful interaction.
