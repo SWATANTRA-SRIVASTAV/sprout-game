@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sprout-game/static/css/main.e6c13ad2.css",
+    "main.js": "/sprout-game/static/js/main.e615cb06.js",
+    "static/js/453.3a0daf67.chunk.js": "/sprout-game/static/js/453.3a0daf67.chunk.js",
+    "index.html": "/sprout-game/index.html",
+    "main.e6c13ad2.css.map": "/sprout-game/static/css/main.e6c13ad2.css.map",
+    "main.e615cb06.js.map": "/sprout-game/static/js/main.e615cb06.js.map",
+    "453.3a0daf67.chunk.js.map": "/sprout-game/static/js/453.3a0daf67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e615cb06.js"
+  ]
+}
