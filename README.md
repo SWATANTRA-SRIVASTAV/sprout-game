@@ -29,10 +29,6 @@ Unlike traditional quiz-style learning apps, Sprout Game focuses more on fast ga
 
 ![Gameplay](screenshots/gameplay.png)
 
-## Success Screen
-
-![Success Screen](screenshots/success.png)
-
 ## Completion Screen
 
 ![Completion Screen](screenshots/complete.png)
